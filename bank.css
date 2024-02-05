@@ -1,0 +1,39 @@
+*{
+    
+}
+body{
+    background-color: #fff;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.login{
+  margin-top: 300px;
+  padding: 100px;
+}
+h1{
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+}
+.input-area {
+    border-radius: 10px;
+    margin-top: 50px;
+    box-shadow:  5px 5px 10px gray ;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+.input-area input{
+    width: 950px; 
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.btn{
+    margin-left: 450px;
+    background-color: aqua;
+    width: 100px;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
